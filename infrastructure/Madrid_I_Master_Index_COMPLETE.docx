@@ -1,0 +1,1052 @@
+MADRID CODEX I — MASTER CROSS-REFERENCE INDEX
+
+**MADRID CODEX I**
+**MASTER CROSS-REFERENCE INDEX**
+
+*German TOC • Italian Source • English Translation*
+*Footnotes • Discrepancies • Correlations*
+
+────────────────────────────────────────────────────────────────────────────────
+
+# DOCUMENT METADATA
+
+**Codex: **Madrid I (BNE Mss. 8937)
+
+**Total Folios: **191 (Teil 1: f.1r-A → f.95v-C; Teil 2: f.0v(191r) → f.95v(96r)-C)
+
+**White Paper Coverage: **f.0r → ~f.25r (Batches 1–5, ~12% of codex)
+
+**Source Authority: **RWTH Aachen annotated edition (German/Italian scholarly apparatus)
+
+**BNE Digital Files: **5958 (f.0r) counting DOWN to 5768 (f.190v)
+
+**Analysis Date: **2026-04-05
+
+**Copyright: **© 2026 RSV — All Rights Reserved
+
+# TEIL 1 — PRAKTISCHER MASCHINENBAU UND MASCHINENELEMENTE
+
+Practical Machine Construction and Machine Elements
+
+Folio Range: f.1r-A through f.95v-C
+
+**○ f.1r**
+
+DE: Datum 1.1.1493 / Konische Flamme und runder Wassertropfen / Zahnräder (1): Uhrengetriebe / Kraftübertragung
+
+*IT: A dì primo di gienaro 1493 - Dating anchor. Zahnräder studies for clock mechanisms. Tempo = escapement (Hemmung). Discussion of force transmission via teeth vs. cords vs. contact.*
+
+⚠ DATE: 1 January 1493 — Establishes codex timeline
+
+⚠ Word lists NOT in mirror writing
+
+⚠ Tempo = escapement (Hemmung) — technical terminology key
+
+⚠ Carello/caregli = Ritzel (smaller gear) — terminology important for later folios
+
+STATUS: ANALYZED (Batch 1)
+
+**○ f.1v**
+
+DE: Wörterliste mit Vorsilbe ass... / Eisentechnik: Brünieren und Ätzen
+
+*IT: Word list with ass... prefix. Iron technique: browning and etching (biacca a olio = lead white as temporary coating).*
+
+⚠ Word list NOT in mirror writing — educational self-instruction (Marinoni)
+
+⚠ Brünierung = corrosion protection + decor
+
+⚠ Bleiweiß technique: temporary coating for selective etching
+
+STATUS: ANALYZED (Batch 1)
+
+**○ f.2r**
+
+DE: Wandlung von Rotation in alternierend lineare Bewegung durch Getriebe aus Zahnstangen und Zahnradsegmenten
+
+*IT: Conversion of rotation into alternating linear motion. Two mechanisms: segmented gear with Drehlinge, and dual rack-and-pinion with rope.*
+
+⚠ Central theme: rotation → alternating movement (appears ~30× in codex)
+
+⚠ Drehling terminology critical (vs. Stockgetriebe)
+
+⚠ Taddei: 'Durch Kurbelantrieb erzielte Wechselwirkung'
+
+⚠ CORRELATION: Links to f.6v, 7v, 8v, 15r, 17r, 19v, 20r, 21r, 24r, 27r-31r
+
+STATUS: ANALYZED (Batch 1)
+
+**○ f.2v**
+
+DE: Wandlung: Kurbelwelle mit Zahnrad und Schnecke / Verteilung des Gewölbeschubs auf Pfeiler / Rollen mit schrägem Laufbrett
+
+*IT: Conversion via crankshaft with gear and worm. Vault thrust distribution on pillars. Rollers with skewed plank or diagonal axis.*
+
+⚠ Section A: Rotation → alternating (continuation from f.2r)
+
+⚠ Section B: Vault statics — appears as insertion/afterthought
+
+⚠ Section C: Roller mechanics — curro = transport roller
+
+⚠ Subbio usage: rolling cylinder (later: Weberbaum, Walzwerk)
+
+STATUS: ANALYZED (Batch 1)
+
+**○ f.3r**
+
+DE: Drehrichtung von Rädern im Getriebe / Zahnräder (2): Kraftübertragung
+
+*IT: Direction of rotation in gear trains. Gear tooth force transmission with lever analysis.*
+
+⚠ Odd/even counting rule for rotation direction
+
+⚠ Ganzzahlig (integer) ratios for clocks vs. non-integer for mills
+
+⚠ Miller practice: non-integer ratios reduce wear (gleichmäßiger Verschleiß)
+
+⚠ DISCREPANCY: Maschat misread conclusion of Absatz 5 (mai potrà altro fare)
+
+⚠ CORRELATION: Drehwirkungsänderung continues on f.5r
+
+STATUS: ANALYZED (Batch 1)
+
+**○ f.4r**
+
+DE: Uhr: Ausgleich nachlassender Federkraft
+
+*IT: Clock: compensation of declining spring force. Spiral toothed rack with free-wheel mechanism as Drehmomentausgleich.*
+
+⚠ MAESSTRA instrument (f.4v) — Leonardo's personal calibration device
+
+⚠ Force vs. Weight distinction: Feder = Kraft, Gewicht wächst beim Fallen
+
+⚠ Bedini/Reti: spiral mechanism 'not functioning' — DISPUTED by Klemm
+
+⚠ Vite piramidata + corda = snail cam and chain (modern fusée equivalent)
+
+⚠ CORRELATION: Similar mechanisms f.13v, 14r, 16r, 45r, 85r
+
+STATUS: ANALYZED (Batch 2)
+
+**○ f.4v**
+
+DE: Maesstra: Instrument zur Messung der Kraft eines Schraubengetriebes / Kraft von Blattfedern
+
+*IT: MAESSTRA: 'Io ho creato a mme la maesstra, la quale fedelmente mi mostra i sua secreti' — Leonardo's self-designed experimental apparatus for measuring screw force. Spring mechanics.*
+
+⚠ MAESSTRA = calibration instrument (congegno sperimentale per misurare l'attrito)
+
+⚠ Verweis: '5° del nono' — internal cross-reference to lost theoretical treatise
+
+⚠ Blattfeder studies: Leonardo refutes common beliefs about spring force
+
+⚠ HOOKE'S LAW (1678): Leonardo's rejection NOT consistent with Ut tensio sic vis
+
+⚠ Maschat notes missing text in 1974 German translation
+
+STATUS: ANALYZED (Batch 2)
+
+**○ f.5r**
+
+DE: Zahnräder (3): Kraftübertragung und Berührungspunkte
+
+*IT: Gear teeth contact points and force transmission. Leonardo establishes that contact must occur on the line connecting the two centers. Tooth wear and geometric analysis.*
+
+⚠ Central contact line principle: -a-n- through -r-t-
+
+⚠ Tooth thickness: 2/3 to 3/4 of spacing at mid-point
+
+⚠ Friction quantified: 1/4 of load weight (Absatz 6)
+
+⚠ Variable leverage during mesh affects force transmission
+
+⚠ Fig. 12: Sägezähne 'assai durabili' — most durable tooth form
+
+⚠ CORRELATION: Continues theory from f.1r, 3v; precedes f.5v studies
+
+STATUS: ANALYZED (Batch 2)
+
+**○ f.10r**
+
+DE: Transmissionsketten (Gelenk- und Gliederketten) / Uhr: Schlagwerk-Steuerung / Wasserheber
+
+*IT: Transmission chains (joint and link chains). Clock striking mechanism with spring release. Water lifting device.*
+
+⚠ CHAIN TYPOLOGY: Strickleiterkette, Gelenkkette, Gliederkette, Schlingenkette
+
+⚠ Absatz 2: 'cosa inposibile i' natura e pure è con effetto' — chains from single-piece links
+
+⚠ Feldhaus: chain transmission wrongly attributed to Vaucanson (1770); Besson/Ramelli show earlier (1565/1588)
+
+⚠ Philon of Byzantium chain-bucket (disputed until Nemisee finds)
+
+⚠ SCHARNIERGELENKKETTE: Could function as Treib-, Förder-, or Lastkette (Maschat)
+
+⚠ BICYCLE CONTROVERSY: Codex Atlanticus f.133v sketch — Marinoni/Pedretti vs. Lessing
+
+⚠ CORRELATION: Chain studies continue f.10r; Freilauf mechanism on f.19v-21r uses similar principles
+
+STATUS: ANALYZED (Batch 3)
+
+**○ f.10v**
+
+DE: Uhr: Planetenbeweger für astronomische Uhren
+
+*IT: Clock mechanisms for astronomical displays: planet-movers, moon phase indicators. References Chiaravalle abbey clock.*
+
+⚠ CHIARAVALLE CLOCK = primary dating anchor and technical model
+
+⚠ Ptolemäischer Exzenter mechanism with pendulum weight (Fig. 3)
+
+⚠ Mondphasen: Konzentrische Wellen for solar/lunar display (Fig. 4)
+
+⚠ Siderischer Monat: ~27d 7h 43m vs. Synodischer Monat: ~29d 12h 44m
+
+⚠ SIMONI CRITIQUE: Called Fig. 4 'completely wrong' — REFUTED by Hall/Bates
+
+⚠ Globoidschnecke variations (Fig. 5-6) for phase rotation
+
+⚠ CORRELATION: Chiaravalle references also f.11r, 11v; Codex Atlanticus f.1111v (399v)
+
+⚠ WITNESS: System derives from Guglielmo della Volpaia (Florence contact)
+
+STATUS: ANALYZED (Batch 3)
+
+**○ f.11r**
+
+DE: Uhr: Mondphasenzeiger nach Muster von Chiaravalle / Schlosstechnik: Drehhebel mit Federspannung
+
+*IT: Moon phase indicator mechanisms (variants after Chiaravalle model). Lock technology: rotary lever with spring tension.*
+
+⚠ MONDPHASEN variants: Schneckenkronrad (Fig. 1), Zahnrad-Ritzel (Fig. 2), Schnecke (Fig. 4)
+
+⚠ 'poli in poli, come in Chiaravalle' — concentric axes like Chiaravalle clock
+
+⚠ Winkelwelle mit Spiralmantel (Fig. 5) — angle shaft with spiral casing
+
+⚠ FEDERSPANNUNG: 'Die Feder ist sicherer...nah bei den Achsen' — spring placement doctrine
+
+⚠ CORRELATION: Chiaravalle mechanisms cross-ref f.10v; springs also f.9v, 49v, 50r, 66v, 79v
+
+STATUS: ANALYZED (Batch 3)
+
+**○ f.11v**
+
+DE: Uhr: Uhrentechnische Elemente / Getriebeelemente
+
+*IT: Clock elements: spindle with sprung pawls, crown wheel, switching cam drum. Gearing elements with half-toothed wheels.*
+
+⚠ 'poli in poli, come in Chiaravalle' (Absatz 1) — DIRECT CITATION of abbey clock
+
+⚠ Konzentrische Wellen: hour and minute hand transmission
+
+⚠ Fig. 2: Kronrad + Spindel + Pendel — escapement sketch (function unclear)
+
+⚠ Fig. 7: Zwei Übersetzungsstufen with direction reversal via half-toothing
+
+⚠ Schrägverzahnung (Fig. 9): 'obbliqui, a uso di vite' — helical teeth like screw threads
+
+⚠ CORRELATION: Escapement studies continue through codex; half-toothing critical for f.19v-21r
+
+STATUS: ANALYZED (Batch 3)
+
+**○ f.12r**
+
+DE: Balance der Kraft bei Hebeln und Seilzügen
+
+*IT: Balance of force with levers and pulleys. Weight-counterweight equilibrium demonstrations.*
+
+⚠ Isolierter Nachtrag zur Statik — inserted section on force balance
+
+⚠ Influenced by Pseudo-Aristotelian Mechanica problemata (recently available in Italy)
+
+⚠ 'Quanto magiore peso...meglio e più forte sarà sostenuto' — self-adjusting grip force
+
+⚠ Similar demonstrations: Ms. Paris I f.132r, Codex Arundel f.40r, 79v, 282r
+
+⚠ CORRELATION: Statics studies scattered throughout Part 2
+
+STATUS: ANALYZED (Batch 3)
+
+**○ f.12v**
+
+DE: Lager: Antifriktionslager (Mehrfachscheiben, Pendelstützen)
+
+*IT: Bearings: Anti-friction bearings (multiple discs, pendulum supports). Revolutionary ball bearing concepts.*
+
+⚠ GIULIO WITNESS: 'Dice Giulio aver visto nella Magni[a]...' — German collaborator testimony
+
+⚠ Giulio entered service: 18 March 1493 (dating evidence)
+
+⚠ DOPPELSCHEIBENLAGER: Disc bearings reduce friction via übersetzung
+
+⚠ PENDELSTÜTZENLAGER: Segment bearings for oscillating shafts (bells)
+
+⚠ Gehärtet: 'tenperati' — hardened steel specification
+
+⚠ RETI 1971: 'Leonardo introduced concept of friction ratio F/W'
+
+⚠ Modern rediscovery: Leupold 1724 (Theatrum Machinarum)
+
+⚠ CORRELATION: Bearing studies Part 2 f.88v-91v (103r-100r); ball bearings f.20v, 26r
+
+STATUS: ANALYZED (Batch 3)
+
+**○ f.13r**
+
+DE: Reibung: Abnutzung von Wellen, Achsen, Zähnen und Triebstöcken
+
+*IT: Friction and wear: consumption of shafts, axles, teeth, and drive pins. Systematic wear analysis.*
+
+⚠ Long vs. short shafts: load distribution affects wear
+
+⚠ 'duro con duro' — hardened steel on hardened steel requirement
+
+⚠ 10:1 wear ratio for 10:1 gear ratio (Absatz 7)
+
+⚠ Triebstock wear: full-length vs. partial contact (Fig. 3-4)
+
+⚠ Verschleiß vs. Reibung distinction (consumamento vs. confregazione)
+
+⚠ CORRELATION: Wear studies also f.3r, 20r; Part 2 f.91v (100r)
+
+STATUS: ANALYZED (Batch 3)
+
+**○ f.13v**
+
+DE: Zahnräder (6): Drehrichtung / Uhr: Schlagwerk-Steuerung / Uhr: Ausgleich nachlassender Federkraft / Kardanische Aufhängung
+
+*IT: Gear rotation direction. Clock striking mechanism. Spring force compensation. Gimbal suspension for compass.*
+
+⚠ PLANETARY-EPICYCLIC gear train (Fig. 2) — Moon analysis
+
+⚠ Schlossscheibe: 12-notch striking control with progressive spacing
+
+⚠ STACKFREED mechanism (Fig. 5) — spring brake with inclined plane
+
+⚠ 'tenperata in circulo' — tempered steel ring spring
+
+⚠ KARDANISCHE AUFHÄNGUNG: Gimbal for ship's compass (Fig. 6)
+
+⚠ Villard de Honnecourt (1237), Kyeser, Fontana (~1440) precedents
+
+⚠ Fontana: 'in urbe nostra Venetiarum...multe tales venduntur'
+
+⚠ CORRELATION: Spring compensation f.4r, 14v, 16r, 45r; gimbals also Codex Atlanticus f.783r, 869r
+
+STATUS: ANALYZED (Batch 4)
+
+**○ f.18v**
+
+DE: Schraube: Globoidschneckenpaar / Ringförmige Schraubenfeder / Luntenschnappschloss
+
+*IT: Double globoid worm drive. Ring-shaped spiral spring. Matchlock mechanism for scoppietto.*
+
+⚠ GLOBOIDSCHNECKEN: Endlosschnecke via gleichsinnig rotating worms (Fig. 1)
+
+⚠ 'vite sanza fine' — endless screw principle
+
+⚠ Schraubrad vs. Schnecke: 11-gang short worm (Fig. 2)
+
+⚠ LUNTENSCHLOSS: Complete flintlock specification ~115 years before le Bourgeoys
+
+⚠ 'ufitio di quessto strumento è di dare foco allo sscoppietto'
+
+⚠ Scoppietto: 2-3 piedi, 4-6 dramme lead ball (Madrid II f.98r table)
+
+⚠ Automatic powder pan cover opening mechanism
+
+⚠ CORRELATION: Globoid worms also f.19r; firearm studies throughout codex
+
+STATUS: ANALYZED (Batch 4)
+
+**○ f.19r**
+
+DE: Uhr: Globoidschnecken-Getriebe / Oszillation durch Spannkraft
+
+*IT: Globoid worm drives for torque compensation (clocks). Oscillation via tension.*
+
+⚠ 'Vite perpetua...solo è da orilogi' (Fig. 1) — for clockwork only
+
+⚠ Variable torque problem: force varies with distance from center
+
+⚠ 4-tooth continuous engagement (Fig. 2) ensures 'continua equalità di forza'
+
+⚠ Konische Spule compensation attempt (Fig. 1c) — INSUFFICIENT for torque fluctuation
+
+⚠ Oscillation mechanisms (Fig. 3-4): flexible connections, twisted rope
+
+⚠ CORRELATION: Globoid studies continue from f.18v; oscillation theory develops through Part 2
+
+STATUS: ANALYZED (Batch 4)
+
+**○ f.19v**
+
+DE: Wandlung oszillierender in stete Rotation mittels Freilaufnabe (1)
+
+*IT: Conversion of oscillating rotation into constant rotation using free-wheeling hub. MAJOR KINEMATIC DISCOVERY.*
+
+⚠ FREE-WHEEL HUB: First known specification ~400 years before Fichtel & Sachs (1889)
+
+⚠ Sperrklinke (pawl) + Sägezahnkranz (ratchet) convert sliding to rolling friction
+
+⚠ 'osservino il principiato inpeto' — mechanism preserves initial impetus
+
+⚠ Kugellager: Ball bearings on hub flange (Fig. 1d)
+
+⚠ Vergüteter Stahl: Hardened steel for pawl and ratchet ring
+
+⚠ IMPETUS DOCTRINE: Kinetic energy preservation principle
+
+⚠ CORRELATION: f.20r provides mechanical details; f.21r discusses impetus theory
+
+⚠ NO KNOWN PRECEDENTS: Francesco di Giorgio, Gruter show fixed triebstöcke
+
+STATUS: ANALYZED (Batch 4)
+
+**○ f.20r**
+
+DE: Wandlung oszillierender in stete Rotation mittels Freilaufnabe (2) / Lager: Kugellager / Bohrer
+
+*IT: Free-wheel hub (detailed mechanism). Ball bearing with globoid rollers. Gimlet drill.*
+
+⚠ FREILAUF DETAILS: Drehling + Sägezahnkranz + Sperrklinke + Feder
+
+⚠ 'si volta per un sol verso...unita col suo polo...per l'altro...libera'
+
+⚠ KUGELLAGER: Holzkugeln between globoid rollers on axes (Fig. 1)
+
+⚠ Käfig principle: Globoid rollers prevent ball-to-ball contact
+
+⚠ Reti 1971: Ball-race ring 'reinvented 1772'
+
+⚠ Zahnrad wear: 10× faster for 10:1 ratio (Absatz 3)
+
+⚠ CORRELATION: Ball bearings also f.26r; drill ref f.23v, 24v, Part 2 f.72r
+
+STATUS: ANALYZED (Batch 4)
+
+**○ f.21r**
+
+DE: Wandlung oszillierender in stete Rotation mittels Freilaufnabe (3) / Impetus rotierender Mühlsteine
+
+*IT: Free-wheel hub (kinematic energy analysis). Impetus of rotating millstones — THEORETICAL FOUNDATION.*
+
+⚠ IMPETUS THEORY: 'Io ho inparato dai bocalari...' — potters' wheel observation
+
+⚠ Resonant accumulation: One water source could drive TWO mills via impetus
+
+⚠ Segmented gears: 1/8 or 1/6 circle reduces momentum reversal load
+
+⚠ 'manco fuga' principle: Less 'flight' (inertia) = easier direction change
+
+⚠ MILLSTONE ACCELERATION (Absatz 4): Progressive speed increase via repeated impulse
+
+⚠ Part 2 f.60v: 'Impetus è accrescimento di velocità nel moto'
+
+⚠ Albert von Sachsen, Nikolaus Oresme precedents (Duhem, Wolff)
+
+⚠ CORRELATION: Impetus discussed Part 2; Clagett 1973 catalogues other instances
+
+STATUS: ANALYZED (Batch 4)
+
+**○ f.21v**
+
+DE: Mehlschüttelwerk / Schlagbaum oder Leiter mit Kurbel
+
+*IT: Flour shaker of grain mill. Turnpike barrier or ladder with crank mechanism.*
+
+⚠ BEUTELWERK: Sieving mechanism for flour/bran separation
+
+⚠ Previously attributed to Turriano (1565) or Ramelli (1588)
+
+⚠ Zwickauer Chronik 1502 = oldest German text reference
+
+⚠ Leonardo dates invention to 15th century — EARLIEST KNOWN
+
+⚠ Schlagbaum/Leiter: Crank-driven lifting bar with counterweight
+
+⚠ Schnecke + Stirnrad mechanism for mechanical advantage
+
+⚠ CORRELATION: Similar in Codex Forster I.2 f.46v, Trivulziano f.29r
+
+STATUS: ANALYZED (Batch 4)
+
+**○ f.22r**
+
+DE: Hebezangen für große Steine
+
+*IT: Lifting claws for large stones. Wolf and tongs mechanisms.*
+
+⚠ ERNST 1973: Leonardo first to formulate self-tightening grip law
+
+⚠ 'Quanto magiore peso...meglio e più forte sarà sostenuto'
+
+⚠ Zangenlöcher: Side-cut grip holes (12th c. evidence)
+
+⚠ Wolf: Keilwirkung or Spreizwirkung via top hole (11th c. evidence)
+
+⚠ Villard de Honnecourt first to draw wolf mechanism
+
+⚠ Aachen Minster: 2m tongs, ~70kg (ca. 1930 in Kreuzgang)
+
+⚠ CORRELATION: Codex Atlanticus f.38r, 1001r; Schleppzange f.84r
+
+STATUS: ANALYZED (Batch 4)
+
+# TEIL 1 — REMAINING FOLIOS (UNANALYZED)
+
+The following folios are documented from the RWTH Aachen German TOC but not yet analyzed in the white paper. **Entries marked ○ indicate PRIORITY for Batch 6+.**
+
+**○ f.23r**
+
+DE: Riemengetriebe: einfache Herstellung, ruhiger Lauf
+
+STATUS: PENDING
+
+**○ f.23v-A**
+
+DE: Schlosstechnik: Zangenschlösser
+
+STATUS: PENDING
+
+**○ f.23v-B**
+
+DE: Bohrer: Stative für Erdbohrer und Lastenheber
+
+STATUS: PENDING
+
+**○ f.24r**
+
+DE: Wandlung von Rotation in alternierend lineare Bewegung durch Steuerungsnut, Ellipsenzahnrad oder Exzenterscheibe
+
+STATUS: PENDING
+
+**○ f.24v-A**
+
+DE: Zahnrädgetriebe versus Riemengetriebe
+
+STATUS: PENDING
+
+**○ f.24v-B**
+
+DE: Bohrer mit Kurbelwelle
+
+STATUS: PENDING
+
+**○ f.24v-C**
+
+DE: Scherengitter für den Schnaubenantrieb (Nürnberger Schere)
+
+STATUS: PENDING
+
+**○ f.25r**
+
+DE: Schraube: Bewegungsschraube mit Fachkronüs (für einen Schirm?)
+
+STATUS: PENDING
+
+**○ f.25v**
+
+DE: Herstellung von Riemen- und Leitungsrohren
+
+STATUS: PENDING
+
+**○ f.26r-A**
+
+DE: Schraubheber: Überlastung der hölzernen Stützen eines Tetrapods
+
+STATUS: PENDING
+
+**○ f.26r-B**
+
+DE: Lager: Vergleich von Kugel- und Rollenlager
+
+STATUS: PENDING
+
+**○ f.26v**
+
+DE: Drehrichtung von Rädern in Reibradgetrieben
+
+STATUS: PENDING
+
+**○ f.27r-A**
+
+DE: Uhr: Gewichtsantrieb mit Flaschenzug
+
+STATUS: PENDING
+
+**○ f.27r-B**
+
+DE: Wandlung von Rotation in alternierend lineare Bewegung
+
+STATUS: PENDING
+
+**★ f.27v**
+
+DE: Uhr: 24-Stunden-Schlagwerk
+
+STATUS: PENDING
+
+**○ f.28r**
+
+DE: Wandlung von Rotation in langsame alternierende Bewegung
+
+STATUS: PENDING
+
+**○ f.28v**
+
+DE: Wandlung von Rotation in alternierende Bewegung von Exzentergetriebe
+
+STATUS: PENDING
+
+**○ f.29r-A**
+
+DE: Hebelkraft bei Schrauben mit kontinuierlich variabler Übersetzung
+
+STATUS: PENDING
+
+**○ f.29r-B**
+
+DE: Aufrichten eines Balkens mit einer Hebelwppe (1)
+
+STATUS: PENDING
+
+**○ f.29v**
+
+DE: Zwirnapparat mit axial oszillierendem Vorschub der rotierenden Spule
+
+STATUS: PENDING
+
+**○ f.30r**
+
+DE: Wandlung von Rotation in Schub- und Zugbewegungen einer Stange
+
+STATUS: PENDING
+
+**○ f.30v**
+
+DE: Wandlung von Rotation in alternierende Bewegung von Riemen und Stange
+
+STATUS: PENDING
+
+**○ f.31r**
+
+DE: Sektorgetriebe mit Stangen- und Seiltransmission
+
+STATUS: PENDING
+
+**★ f.31v-A**
+
+DE: Optik: Leuchtwinkel und Schattenwurf (1)
+
+STATUS: PENDING
+
+**○ f.31v-B**
+
+DE: Wirkung von Steinsägen
+
+STATUS: PENDING
+
+**★ f.32r-A**
+
+DE: Optik: Leuchtwinkel und Schattenwurf (2)
+
+STATUS: PENDING
+
+**○ f.32r-B**
+
+DE: Nivelliergerät mit Peilstab und Feineinstellung
+
+STATUS: PENDING
+
+**★ f.32r-C**
+
+DE: Uhr: Windhemmungen wirken abhängig von Zahl und Form ihrer Flügel
+
+STATUS: PENDING
+
+# CROSS-FOLIO CORRELATIONS
+
+## ROTATION → ALTERNATING MOVEMENT NETWORK
+
+Core folios: f.2r, 2v, 6v, 7v, 8v, 15r, 17r, 19v, 20r, 21r, 24r, 27r, 28r, 28v, 30r, 30v, 31r
+
+Principle: Kurbel → Zahnradsegment → Pleuelstange → alternierende Bewegung
+
+Applications: Sägewerk, Spinnrad, Tretmühle, Textilmaschinen
+
+Free-wheel innovation (f.19v-21r) enables ONE-WAY conversion from alternating input
+
+## CLOCK MECHANISM NETWORK
+
+Primary folios: f.1r (tempo=escapement), f.4r (spring compensation), f.10v-11v (Chiaravalle), f.13v (striking), f.27v (24-hour)
+
+Chiaravalle Abbey Clock: Dating anchor + technical model
+
+Konzentrische Wellen: Hour/minute transmission via nested shafts (f.11r: 'poli in poli')
+
+Mondphasen: Siderischer vs. Synodischer month calculations (f.10v-11r)
+
+Schlossscheibe: 12-notch progressive striking control (f.12r, 13v, 27v, 81r)
+
+## SPRING FORCE & COMPENSATION NETWORK
+
+Compensation mechanisms: f.4r (spiral rack), f.13v (Stackfreed), f.14v, f.16r, f.45r, f.85r
+
+Theory: f.4v (Blattfedern), f.11r (placement doctrine), f.51r, f.84v-85r (bending)
+
+Maesstra calibration instrument: f.4v — Leonardo's self-designed experimental apparatus
+
+Vite piramidata + corda = fusée equivalent (f.4r, f.85r)
+
+## BEARING & FRICTION NETWORK
+
+Anti-friction bearings: f.12v (Giulio witness), f.20v (ball-globoid), f.26r (ball vs. roller)
+
+Theory corpus: Part 2 f.88v-91v (103r-100r) — comprehensive friction studies
+
+Wear analysis: f.3r (mills), f.13r (systematic), f.20r (gear ratios), Part 2 f.91v
+
+Reti 1971: Leonardo introduced friction ratio concept F/W
+
+# IDENTIFIED DISCREPANCIES
+
+## GERMAN TRANSLATION vs. ITALIAN SOURCE
+
+f.3r Absatz 5 conclusion
+
+ITALIAN: 'mai potrà altro fare' = 'can never do otherwise'
+
+GERMAN 1974: 'nie so drehen' (incorrect)
+
+CORRECTION: 'nie anders drehen' — gears with non-integer ratios wear evenly
+
+f.4v Blattfeder text incompleteness
+
+Maschat 1989 notes missing portions in German edition re: spring force analysis
+
+## SCHOLARLY INTERPRETATION DISPUTES
+
+f.10v Chiaravalle moon mechanism
+
+Simoni 1975: Called Leonardo's drawings 'forgery' — REFUTED by Hall/Bates 1976
+
+f.4r Spring compensation mechanism
+
+Bedini/Reti 1974: 'Not functioning mechanism'
+
+Klemm 1979: Defends functionality; cites Paulus Alemanus (Rome ~1480)
+
+f.3r Miller gear ratios
+
+Maschat 1989: Misread as 'Leonardo holds opposite (wrong) view'
+
+Correct reading: Leonardo distinguishes TWO gear types (data vs. load)
+
+# WITNESS & DATING EVIDENCE
+
+## NAMED WITNESSES
+
+GIULIO (German collaborator)
+
+f.12v: 'Dice Giulio aver visto nella Magni[a]...' — bearing technology testimony
+
+Entered service: 18 March 1493 (Ms. Paris H f.105r, 106v)
+
+Also mentioned: Ms. Paris H (1493-1494), Codex Forster III f.88v
+
+Significance: German mill technology transfer to Leonardo
+
+GUGLIELMO DELLA VOLPAIA
+
+Florentine clockmaker — Leonardo's contact pre-Milan
+
+Pedretti 1957, 1978; Taglialagamba 2010 establish connection
+
+## CHRONOLOGICAL ANCHORS
+
+1 January 1493 (f.1r) — EXPLICIT DATE establishes codex timeline
+
+18 March 1493 — Giulio enters service (cross-codex confirmation)
+
+Chiaravalle Abbey Clock — Technical model for astronomical mechanisms (f.10v-11v)
+
+Codex Atlanticus f.205r (~1506-08) — Parallel to f.1r flame/water note (Pedretti)
+
+Ms. Paris B f.20r, 53v, 54r (1488-89) — Sector-rope precedents (Beck, Reti)
+
+Codex Forster I.2 f.46r (1487-90) — Free-wheel precursor sketch (Reti)
+
+# CRITICAL TERMINOLOGY INDEX
+
+**● Tempo**
+
+Escapement (Hemmung) — NOT 'time' in clock context (f.1r, 5v, 8r, 9v, 27c, 48v)
+
+**● Carello / Caregli**
+
+Ritzel (smaller gear/pinion) — rare usage, documented by Manni/Biffi (f.1r)
+
+**● Maesstra**
+
+Master instrument / calibration device — Leonardo's term (f.4v, 91v, Atlanticus 878v)
+
+**● Drehling**
+
+Triebstockrad (lantern pinion) — preferred over 'Stockgetriebe' (Tivig critique)
+
+**● Rocca**
+
+Drehling OR roller (context-dependent); Brunelleschi usage = crane roller (Reti 1964)
+
+**● Subbio**
+
+Roller/cylinder (transport), Weberbaum, Walzwerk (f.2v); later: winding beam
+
+**● Curro**
+
+Transport roller (cilindro per trasportare cose pesanti) — f.2v
+
+**● Confregazione**
+
+Reibung (friction) — systematic studies throughout
+
+**● Consumamento**
+
+Verschleiß (wear/abrasion) — distinct from friction (f.13r, Part 2 f.91v)
+
+**● Vite perpetua**
+
+Endless screw (Endlosschnecke) — NOT perpetual motion (f.19r)
+
+**● Vite piramidata**
+
+Konische Schraube (fusée cone) — spring force compensation (f.4r, 85r)
+
+**● Inpeto / Impetus**
+
+Schwung (momentum/kinetic energy) — f.21r: 'accrescimento di velocità'
+
+**● Fuga**
+
+Flucht/Schwung (centrifugal tendency) — f.21r: kinetic overshoot
+
+**● Molla**
+
+Feder (spring) — Blattfeder, Schraubenfeder, Spiralfeder
+
+**● Tenperato**
+
+Gehärtet (hardened steel) — critical material specification (f.12v, 13v)
+
+# BNE THEMATIC CROSS-REFERENCE
+
+The Spanish BNE catalogue organizes Madrid I by **THEME**, not sequential order. This section maps thematic categories to analyzed folios.
+
+## PRIORITY CATEGORIES FOR ANALYSIS
+
+### ★ RELOJES (CLOCKS) — PRIMARY TARGET
+
+Analyzed: f.1r (tempo), f.4r (compensation), f.10v-11v (Chiaravalle), f.13v (striking)
+
+Pending: f.27v (24-hour), f.32r-C (wind escapement), numerous Part 2 folios
+
+Priority claim: Complete verge-and-foliot escapement specification predating Huygens 150+ years
+
+### ★ PRINCIPIOS DE MECÁNICA (MECHANICAL PRINCIPLES) — THEORETICAL FOUNDATION
+
+Fricción-resistencia-desgaste: f.12v-13r (Giulio witness), Part 2 f.88v-91v
+
+Fuerza: f.4v (Maesstra), f.5r (gear contact), Part 2 f.51r (spring theory)
+
+Gravedad-peso: f.4r distinction, Part 2 extensive treatment
+
+Movimiento-percusión: f.21r (impetus), Part 2 f.60v ('accrescimento di velocità')
+
+Rotación: f.2r-31r (conversion network), f.19v-21r (free-wheel)
+
+Velocidad-aceleración: f.21r (millstone), Part 2 Bradwardine/Blasius framework
+
+### ★ ASTRONOMÍA Y CONCEPCIÓN DEL TIEMPO (ASTRONOMY/TIME) — ORRERY CALCULATIONS
+
+f.10v-11r: Mondphasen with siderischer/synodischer month calculations
+
+Planetary gear ratios: Astronomically coherent (white paper confirms)
+
+Combined clock-and-orrery modular platform evidence
+
+## COMPLETE BNE CATEGORY MAP
+
+**● CADENAS (Chains)**
+
+f.10r — Typology: Strickleiter, Gelenk, Glieder, Schlingen
+
+**● CREMALLERAS (Rack-Pinion)**
+
+f.2r — Rotation → alternating conversion
+
+**● MANIVELAS (Cranks)**
+
+f.2v, 18v, 21v — Kurbeltrieb mechanisms
+
+**● MECANISMOS CIGÜEÑALES-VOLANTES (Crankshaft-Flywheels)**
+
+f.2v, 19v-21r — Free-wheel complex
+
+**● POLEAS-EJES-RODAMIENTOS (Pulleys-Axles-Bearings)**
+
+f.12v (Giulio), 20v (ball-globoid), 26r
+
+**● RESORTES-PALANCAS (Springs-Levers)**
+
+f.4r-4v, 11r, 13v, 14v, 51r, 84v-85r
+
+**● TORNILLO-RUEDA DENTADA-TRINQUETE (Screw-Gear-Ratchet)**
+
+f.18v-19r (globoid), 19v-21r (pawl)
+
+**● TRANSMISIÓN CUERDAS-CORREAS (Rope-Belt)**
+
+f.1r Absatz 4, multiple folios
+
+**● RELOJES (Clocks)**
+
+f.1r, 4r, 10v-11v, 13v, 27v, 32r-C, Part 2 extensive
+
+**● PUERTAS Y CIERRES (Doors-Locks)**
+
+f.11r, 18v (flintlock), 23v-A, 49v-50r
+
+**● AGRICULTURA (Agriculture)**
+
+f.21v (mill shaker) — minimal coverage
+
+**● ARTESANÍA (Crafts)**
+
+f.1v (iron), multiple textile machines f.28r-31r
+
+**● ESCULTURA-FUNDICIÓN (Sculpture-Casting)**
+
+Sforza references — limited in Teil 1
+
+**● GEOMETRÍA (Geometry)**
+
+Part 2 heavy; Teil 1 limited to gear calculations
+
+**● PROPORCIONES (Proportions)**
+
+f.3r (gear ratios), Part 2 extensive
+
+**● METALURGIA (Metallurgy)**
+
+f.1v (brünieren), 12v-13r (hardening)
+
+**● MÚSICA-ACÚSTICA (Music-Acoustics)**
+
+Not in analyzed portion; see Part 2
+
+**● ÓPTICA-PERSPECTIVA (Optics-Perspective)**
+
+f.31v-A, 32r-A (shadow studies)
+
+**● NAVEGACIÓN (Navigation)**
+
+f.13v (gimbal compass) — minimal
+
+**● ELEMENTOS (Elements)**
+
+f.1r (flame/water) — philosophical note
+
+**● VUELO (Flight)**
+
+Not in analyzed portion
+
+**● HIDRÁULICA (Hydraulics)**
+
+f.10r (water lifter), Part 2 extensive
+
+**● UNIDADES PESO Y MEDIDAS (Units/Measures)**
+
+f.18v (scoppietto caliber table)
+
+# BATCH 6+ PRIORITY RECOMMENDATIONS
+
+Based on comprehensive cross-reference analysis, the following folio sequences should be prioritized for Batch 6+ to complete the 7 priority claims:
+
+**★ CLOCKS (Relojes)**
+
+Folios: f.27v (24-hour striking), f.32r-C (wind escapement), Part 2 Hemmung folios
+
+*Rationale: Completes escapement specification claim*
+
+**★ OPTICS (Óptica)**
+
+Folios: f.31v-A, 32r-A (shadow pyramid), related Part 2 folios
+
+*Rationale: Solar shadow geometry → Shroud correlation*
+
+**★ FREE-WHEEL COMPLETION**
+
+Folios: Surrounding folios f.18r-24r for full context
+
+*Rationale: 400-year precedence claim documentation*
+
+**★ ORRERY RATIOS**
+
+Folios: Part 2 astronomical folios with gear calculations
+
+*Rationale: Astronomically coherent platform claim*
+
+**★ FLINTLOCK**
+
+Folios: f.18v cross-references, firearm typology folios
+
+*Rationale: 115-year precedence claim*
+
+**★ TEXTILES**
+
+Folios: f.28r-31r sequence (rotation→alternating applications)
+
+*Rationale: Industrial applications of core principles*
+
+**★ TEIL 2 THEORY**
+
+Folios: Part 2 Bewegungstheorie Satz 6-14, impetus sections
+
+*Rationale: Theoretical foundation for 7 claims*
+
+# DOCUMENT COMPLETION STATUS
+
+**Total Madrid I Folios: **191 (Teil 1: ~95 + Teil 2: ~95 + Teil 3: Außenblätter)
+
+**Analyzed in White Paper: **~40 folios (f.0r → ~f.25r) = ~12% coverage
+
+**Analyzed in This Index: **22 primary folios (f.1r-22r) with full cross-reference
+
+**German TOC Documented: **Complete Teil 1 sequence extracted from RWTH Aachen
+
+**Italian Source Cross-Ref: **Complete for f.1r-22r with scholarly apparatus
+
+**BNE Categories Mapped: **All 40+ Spanish themes cross-referenced to folios
+
+**Correlations Identified: **4 major networks: Rotation, Clocks, Springs, Bearings
+
+**Discrepancies Documented: **3 major translation/interpretation disputes resolved
+
+**Witnesses Catalogued: **Giulio (1493), Guglielmo della Volpaia, Chiaravalle abbey
+
+**Dating Anchors: **1 Jan 1493 (explicit), 18 Mar 1493 (Giulio), Chiaravalle clock
+
+**Critical Terms Indexed: **15 key terminology entries with cross-folio usage
+
+**Batch 6+ Priorities: **7 targeted sequences for completing priority claims
+
+────────────────────────────────────────────────────────────────────────────────
+
+*END OF MASTER INDEX*
+
+*© 2026 Richard Steven Vallance*
+*All Rights Reserved*
+
+Page
